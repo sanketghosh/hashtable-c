@@ -1,2 +1,3 @@
-# hashtable-c
-a simple hashtable implementation in plain c
+# Hashtable in C
+
+A simple hashtable implementation in plain C.
